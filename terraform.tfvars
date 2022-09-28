@@ -1,5 +1,5 @@
 vpc_cird_block = "10.0.0.0/16"
-subenet_cird_block = "10.0.0.0/24"
+subnet_cird_block = "10.0.0.0/24"
 availability_zone = "us-west-2a"
 env_prefix = "dev"
 instance_type = "t2.micro"
